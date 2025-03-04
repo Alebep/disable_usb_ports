@@ -22,4 +22,4 @@ This code allows you to enable and disable USB ports on computers running the Wi
     ```bash
     python disable_usb.py
     ```
-Vai aparecer um menu com a lista de operações que deseja realizar.
+A menu will appear with a list of operations for you to choose from.
